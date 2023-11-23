@@ -8,50 +8,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Didrik Roest
+    tagline: Teacher by trade, programmer by hobby
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: didrik.roest@gmail.com
+    phone: +47 97185198
     timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    citizenship: Norwegian
+    website: didrik147.github.io #do not add http://
+    linkedin:
+    xing: 
+    github: didrik147
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Norwegian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Disc golf
+          link: https://discgolfmetrix.com/player/93196
+
+        - item: Board games
+          link: https://boardgamegeek.com/user/didrik147
+
+        - item: Roleplaying games
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Taekwondo
           link:
 
 career-profile:
