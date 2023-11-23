@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: https://filedn.com/lqBbFQ1i2I1HRFmhfpftGES/Didrik_CV_english.pdf
 
     languages:
       title: Languages
