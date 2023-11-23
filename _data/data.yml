@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Didrik Roest
-    tagline: Science teacher
+    tagline: Science and IT teacher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,9 +26,9 @@ sidebar:
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: Didrik147
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://filedn.com/lqBbFQ1i2I1HRFmhfpftGES/Didrik_CV_english.pdf
+    pdf: https://didrik147.github.io/online-cv/Didrik_CV_english.pdf
 
     languages:
       title: Languages
@@ -58,7 +58,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      Science teacher with several years experience. Master of technology with an average grade of A. Hobby programmer with projects in Python and HTML/CSS/JS.
+      Teacher of science and information technology with several years experience. Master of technology in chemical engineering with an average grade of A. Hobby programmer with projects mainly in Python and HTML/CSS/JS.
 education:
     title: Education
     info:
